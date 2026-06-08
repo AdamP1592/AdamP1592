@@ -1,7 +1,7 @@
 ## Hi, I'm **Adam**! 
 I am a *Software Engineer* who primarily focuses on: **Machine Learning**, **Embedded**, **Simulations**, and **Full Stack**.
 
-I am **open to work**, and **willing to collaborate**, just feel free to reach out using my [portfolio](https://adamp1592.github.io) or on [LinkedIn](https://www.linkedin.com/in/adam-peterson-dev/)
+I am **open to work**, and **willing to collaborate**, just feel free to reach out using my [portfolio](https://adamp1592.github.io) or on [LinkedIn](https://www.linkedin.com/in/adam-peterson-dev/)!
 
 
 I usually have two personal projects running at any given moment, one passion-driven, one primarily about skill development. Feel free to checkt them out!
