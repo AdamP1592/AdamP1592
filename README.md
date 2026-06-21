@@ -3,6 +3,8 @@ I am a *Software Engineer* who primarily focuses on: **Machine Learning**, **Emb
 
 I am **open to work**, and **willing to collaborate**, just feel free to reach out using my [portfolio](https://adamp1592.github.io) or on [LinkedIn](https://www.linkedin.com/in/adam-peterson-dev/)!
 
+If ypu want some insight into the kinds of projects I intend on facing in the future, feel free to check out my [TODO](https://github.com/AdamP1592/TODO) or my [current projects](#current-projects)
+
 
 I usually have two personal projects running at any given moment, one passion-driven, one primarily about skill development. Feel free to checkt them out!
 
@@ -49,7 +51,7 @@ Real-Time Muscle Simulation in JavaScript w/ Node.js backend [Here](https://gith
 - Serverless muscle fiber simulation where user hardware defines scale, with a REST API for persisting simulation states.
 
 HPC Extensible, Multithreaded PM Orbital Simulation in C++ w/ CMake [Here](https://github.com/AdamP1592/OrbitalSim)
-- High-performance multithreaded C++ orbital simulation designed for extensibility and HPC scalability with Python bindings for OpenGL rendering.
+- High-performance multithreaded C++ orbital simulation designed for easy hpc extensibility and adaptive task scheduling with Python bindings for OpenGL rendering.
 
 ## A Couple Past Projects:
 
